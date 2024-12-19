@@ -1,0 +1,20 @@
+/home/cmarinop/OS/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+  File: filename
+  Size: 38        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 411254      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1231/cmarinop)   Gid: ( 1233/cmarinop)
+Access: 2024-12-19 13:02:02.756707630 +0200
+Modify: 2024-12-19 13:02:02.756707630 +0200
+Change: 2024-12-19 13:02:02.756707630 +0200
+ Birth: -
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+cat: file.txt: No such file or directory
